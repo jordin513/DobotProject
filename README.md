@@ -3,5 +3,5 @@ This was one of my senior projects that involved networking with a DOBOT Magicia
 
 Going forward, the project will be improved by adding a component that converts images into xyz coordinated for the DOBOT to follow. At the moment, all coodinates are hard coded for project presentation purposes.
 
-##Demo
+## Demo
 https://www.youtube.com/channel/UC6iMMVUFNWF1gt2bFz5cUMw/featured
