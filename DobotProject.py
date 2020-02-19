@@ -37,7 +37,7 @@ def main():
             pickle.dump(creds, token)
     
     #id of the Dobot Images folder
-    dobot_folder_drive_id = '1EaFFVHcU8KZBYV3N7A7s_wkPrjXaZWfe'
+    dobot_folder_drive_id = '1uot6fLxmLA172BxzXr-HZaXcjKCCKtTE'
 
     service = build('drive', 'v3', credentials=creds)
 
